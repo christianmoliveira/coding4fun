@@ -1,6 +1,6 @@
 // Verifica se array possui a qtd de índices dado
 // 'pega' o valor do índice e é feito uma operação de
-// potencição, no caso, array[n]^n 
+// potenciação, no caso, array[n]^n 
 function index( array, n ) {
     return (array.length) > n ? Math.pow(array[n], n) : -1;
 }
