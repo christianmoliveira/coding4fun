@@ -2,7 +2,6 @@
  * Write a function that rearranges an integer into its largest possible value.
  */
 
-//  TODO: Implementar solução
 function superSize(num){
   if (num < 10) {
     return num;
